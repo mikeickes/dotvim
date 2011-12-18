@@ -1,6 +1,0 @@
-call pathogen#infect()
-
-" Setup my color scheme "
-syntax enable
-set background=dark
-colorscheme solarized
